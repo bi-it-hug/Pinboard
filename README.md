@@ -1,5 +1,13 @@
 # Pinboard
 
+### How to run the Application in VSCode
+
+1. Make sure you have **NodeJS** and **NPM** installed
+
+2. type `npm install` inside a terminal
+
+3. type `npm run dev` inside a terminal
+
 ## 2025-11-28 | Beginn
 
 - Beginn des Projektes
@@ -16,18 +24,21 @@
 
 ## 2025-12-19
 
-- Tests implementiert
+- Board Page implementiert
 
 ## 2025-12-26 | Ferien
 
-- Feinschliff
+- Tests implementiert
 
 ## 2026-01-02 | Ferien
 
-- Optionale Sachen implementiert
+- Feinschliff
 
 ## 2026-01-09
 
-- Overview
+- Optionale Sachen implementiert
+- Gesamte Applikation nochmals überprüft
 
 ## 2026-01-16 | Abgabe
+
+- Fertigstellung des Lernjournals

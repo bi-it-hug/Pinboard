@@ -34,8 +34,8 @@ export default function RootLayout({
             <ThemeProvider>
                 <body className={`${geistSans.variable} ${geistMono.variable} relative flex min-h-screen w-screen items-stretch justify-center overflow-hidden bg-neutral-100 text-neutral-900 antialiased dark:bg-[#111111] dark:text-neutral-100`}>
                     <Sidebar>
-                        <ThemeSwitch />
-                        <Separator />
+                        {/* <ThemeSwitch /> */}
+                        {/* <Separator /> */}
                         <Navigation />
                         <Separator />
                         <Regenerate />
